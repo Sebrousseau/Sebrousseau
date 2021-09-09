@@ -1,4 +1,4 @@
-<h1 align="center" color="blue">Hi 👋, I'm Sebastien Rousseau</h1>
+<h1 align="center">Hi 👋, I'm Sebastien Rousseau</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
 - 🌱 I’m currently learning **React & Redux**
