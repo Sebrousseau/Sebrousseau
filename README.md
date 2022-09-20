@@ -1,14 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sebastien Rousseau</h1>
-<h3 align="center">A passionate fullstack developer from France</h3>
-
-- 🌱 I’m currently learning **React & Redux**
-
-- 👯 I collaborated on [Liveprog](https://www.liveprog.one/)
-
-- 📫 How to reach me **rousseau_sebastien@hotmail.fr**
-
-- ⚡ Fun fact **Stay cool to be cool!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sebrousseau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebrousseau" height="30" width="40" /></a>
