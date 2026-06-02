@@ -1,5 +1,3 @@
-# 👋 Salut, je suis Sébastien !
-
 **Développeur Full-Stack Ruby on Rails passionné par les défis techniques complexes**
 
 🚀 Spécialisé dans la conception d'architectures scalables et la transformation de besoins métier en solutions robustes  
@@ -44,7 +42,3 @@
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
 
-## 📈 Actuellement
-- 🔍 Ouvert aux opportunités en tant que **Développeur Full-Stack**
-- 🌱 Toujours en apprentissage sur les dernières technos
-- 💬 N'hésitez pas à me contacter pour discuter tech, projets ou opportunités !
